@@ -1,5 +1,6 @@
 body {
-  background-image: url("https://i.imgur.com/eeoGFdT.jpg");
+  background-image:;
+  text-align: center;
 }
 
 .mybtn {
@@ -52,7 +53,8 @@ body {
   　font-size: 15px;
   　color: #fffaf3;
   　font-weight: bold;
-  　background-color: #f9c81e;
+  　background-color: black: #f9c81e;
+    font-family: Microsoft JhengHei;
 }
 #Sidebar {
   　width: 120px;
@@ -86,3 +88,25 @@ body {
   　font-weight: bold;
   　background-color: #f9c81e;
 }
+nav {
+  color: white;
+  float: left;
+  max-width: 160px;
+  margin: 0;
+  padding: lem;
+}
+
+#select {
+  color: black;
+  text-align: center;
+}
+#count {
+  float: right;
+}
+
+#demo{width:680px; margin:20px auto; padding:4px; background:#f7f7f7; 
+border:1px solid #d3d3d3}
+.list{margin:6px}
+.list h3{height:26px; line-height:26px; font-size:14px}
+.list p{line-height:20px}
+.showblock .list{float:left; width:325px; height:100px}
